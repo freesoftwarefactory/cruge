@@ -26,3 +26,8 @@ Because Cruge is a better solution for office applications in where many authori
 ###Partners
 
 This development is partnered by ...................
+
+###Documentation
+
+The full documentation is here: https://github.com/christiansalazar/cruge/wiki
+
