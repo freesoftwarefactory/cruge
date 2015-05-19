@@ -66,7 +66,5 @@ i will appreciate very much you donation and i can put your name in partners sec
 
 ###Documentation and Setup Instructions
 
-The full documentation is here: 
-
-	https://github.com/christiansalazar/cruge/wiki
+The full documentation is here: https://github.com/christiansalazar/cruge/wiki
 
