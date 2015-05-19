@@ -59,6 +59,11 @@ This development is supported by:
 
 + Carlos Llamosas (Mexico)
 
+###I Love U Man, Can you have my Baby ?
+
+No. you can support me via [PayPal Donation](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=Cof8Q1M7pvKRI5dGgyNFJ9WY9fgOaq1-pTB2ZXJ_K-QR3us8emGzbLea3t8&dispatch=5885d80a13c0db1f8e263663d3faee8d99e4111b56ef0eae45e68b8988f5b2dd)
+i will appreciate very much you donation and i can put your name in partners sections. Thank you in advance, i put my time and effort on this project for you.
+
 ###Documentation and Setup Instructions
 
 The full documentation is here: 
