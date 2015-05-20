@@ -31,9 +31,13 @@ class CrugeIdentity
 	}
 
 	public function getAuthKey() {
+		// TODO: provide a key, persisted in cookies
+		return hash('crc32', $this->getId());
 	}
 
 	public function validateAuthKey($authKey) {
+		// TODO: must check if this authKey is valid and is not expired
+		return true;
 	}
 
 // IdentityInteface methods ends.
