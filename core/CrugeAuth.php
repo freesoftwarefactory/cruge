@@ -1,6 +1,11 @@
 <?php
 namespace cruge\core;
-
+/**
+ * CrugeAuth 
+ * 
+ * @author Cristian Salazar H. <christiansalazarh@gmail.com> www.chileshift.cl 
+ * @license SEE ALSO LICENSE FILE
+ */
 class CrugeAuth extends \yii\web\User {
 	public $identityClass = "\cruge\core\CrugeIdentity"; // do not change.
 	public $client = 'ActiveRecordClient';

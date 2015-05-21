@@ -8,7 +8,7 @@ namespace cruge\interfaces;
  *  a CrugeIdentity created by a call to CrugeClientBehavior->createIdentity.
  * 
  * @author Cristian Salazar H. <christiansalazarh@gmail.com> www.chileshift.cl 
- * @license FreeBSD {@link http://www.freebsd.org/copyright/freebsd-license.html}
+ * @license SEE ALSO LICENSE FILE
  */
 interface CrugeAuthInterface {
 	/**

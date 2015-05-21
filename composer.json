@@ -1,7 +1,7 @@
 {
     "name": "chileshift/cruge",
     "description": "authentication/authorization extension for yii2 (yii framework 2.0)",
-    "license": "FREEBSD",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Christian Salazar",
@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-		"php" : ">=5.3.0",
+		"php" : ">=5.3.0"
 	}
 }

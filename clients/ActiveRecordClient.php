@@ -10,7 +10,7 @@ namespace cruge\clients;
  *		cruge/etc/activerecordclient-mysql-schema.sql
  * 
  * @author Cristian Salazar H. <christiansalazarh@gmail.com> www.chileshift.cl 
- * @license FreeBSD {@link http://www.freebsd.org/copyright/freebsd-license.html}
+ * @license SEE ALSO LICENSE FILE
  */
 class ActiveRecordClient
 	extends \yii\db\ActiveRecord

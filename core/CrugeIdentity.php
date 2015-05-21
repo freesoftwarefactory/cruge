@@ -1,6 +1,12 @@
 <?php
 namespace cruge\core;
 
+/**
+ * CrugeIdentity 
+ * 
+ * @author Cristian Salazar H. <christiansalazarh@gmail.com> www.chileshift.cl 
+ * @license SEE ALSO LICENSE FILE
+ */
 class CrugeIdentity
 	extends \yii\base\Object
 	implements \yii\web\IdentityInterface
