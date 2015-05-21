@@ -1,10 +1,13 @@
 {
     "name": "chileshift/cruge",
+  	"keywords": ["auth","authentication","authorization","rbac","user"],
     "description": "authentication/authorization extension for yii2 (yii framework 2.0)",
     "license": "BSD-2-Clause",
+  	"homepage": "http://github.com/chileshift/cruge/wiki",
+  	"type": "library",
     "authors": [
         {
-            "name": "Christian Salazar",
+            "name": "Cristian Salazar",
             "email": "christiansalazarh@gmail.com",
 			"role": "designer/developer"
         }
