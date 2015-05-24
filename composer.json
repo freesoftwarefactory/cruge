@@ -1,9 +1,9 @@
 {
-    "name": "chileshift/cruge",
+    "name": "freesoftwarefactory/cruge",
   	"keywords": ["auth","authentication","authorization","rbac","user"],
     "description": "authentication/authorization extension for yii2 (yii framework 2.0)",
     "license": "BSD-2-Clause",
-  	"homepage": "http://github.com/chileshift/cruge/wiki",
+  	"homepage": "http://github.com/freesoftwarefactory/cruge/wiki",
   	"type": "library",
     "authors": [
         {

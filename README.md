@@ -53,9 +53,7 @@ Please do not fork or download yet.
 
 + Christian Salazar H. (christiansalazarh@gmail.com) www.chileshift.cl/cruge
 
-###Partners
-
-This development is supported by: 
+###Thank you People for your donations,
 
 + Carlos Llamosas (Mexico)
 
@@ -66,5 +64,5 @@ i will appreciate very much you donation and i can put your name in partners sec
 
 ###Documentation and Setup Instructions
 
-The full documentation is here: https://github.com/christiansalazar/cruge/wiki
+The full documentation is here: https://github.com/freesoftwarefactory/cruge/wiki
 
