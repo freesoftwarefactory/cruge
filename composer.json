@@ -14,7 +14,7 @@
     ],
     "require": {
 		 "php" : ">=5.3.0",
-		"freesoftwarefactory/php-hooks" : "1.0.0"
+		"freesoftwarefactory/php-hooks" : "1.1.0"
 	},
 	"autoload": {
 		"psr-4": {
