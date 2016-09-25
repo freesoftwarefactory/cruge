@@ -7,7 +7,7 @@ namespace cruge\core;
  * @author Cristian Salazar H. <christiansalazarh@gmail.com> www.chileshift.cl 
  * @license SEE ALSO LICENSE FILE
  */
-class CrugeClientBehavior extends \Yii\base\Behavior {
+class CrugeClientBehavior extends \yii\base\Behavior {
 	public function createIdentity($data){
 		$model = new CrugeIdentity;
 		$model->setId($data["id"]);
