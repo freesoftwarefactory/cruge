@@ -26,7 +26,7 @@ class CrugeAuth extends \yii\web\User {
 
 	public function getClient(){
 		if(null === $this->_client){
-			$classname = '\cruge\clients\\'.$this->client;
+			$classname = $this->client;
 			$inst = new $classname;
         	if ($inst instanceof \cruge\interfaces\CrugeAuthInterface) {
 				if(!$inst->hasMethod("createIdentity"))
