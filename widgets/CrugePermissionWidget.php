@@ -52,6 +52,7 @@ class CrugePermissionWidget extends Widget
     
         $inputs = '';
         foreach($this->roles as $role){
+            $item = $this->getAuth()->getPermission($role);
             $isAssigned = $this->getAuth()->checkAccess($this->userId, $role);
             $attrs = [
                 'type'=>'checkbox',
@@ -59,8 +60,9 @@ class CrugePermissionWidget extends Widget
                 'name'=>$role,
             ];
             if($isAssigned) $attrs['checked']='checked';
+            $descr = $item->description ? $item->description : ucwords(str_replace("_"," ", $role));
             $input = Html::tag('input','',$attrs);
-            $label = Html::tag('label',$input.ucwords($role),['class'=>'permission-label']);
+            $label = Html::tag('label',$input.$descr,['class'=>'permission-label']);
             $inputs .=  Html::tag('div',$label,['class'=>'checkbox cruge-permission-input']);
         }
         
